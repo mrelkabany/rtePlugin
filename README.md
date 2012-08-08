@@ -1,0 +1,4 @@
+rtePlugin
+=========
+
+Rich Text Editor
